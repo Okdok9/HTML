@@ -33,13 +33,13 @@ aside {
     margin-top: 10%;
 }
 
-.Menu {
+h3 li {
     top: auto;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 h3 {
-    color: orange;
+    color: yellow;
     font-variant: small-caps;
 }
 
@@ -86,8 +86,8 @@ figcaption:hover {
 }
 
 footer {
-    background-color: black;
-    color: white;
+    background-color: rgb(169, 250, 5);
+    color: black;
     text-align: center;
     font-style: oblique;
     border-radius: 100px
@@ -103,7 +103,7 @@ body {
 }
 
 #sep {
-        color: blue;
+  color: blue;
 }
 
 li:hover {
@@ -111,4 +111,21 @@ background-color: #d2691e;
 font-style: italic;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 border-radius: 30px;
+}
+
+li a:link {
+    color: greenyellow;
+    text-decoration: double;
+}
+
+a:visited {
+    color: rgb(143, 3, 3);
+    font-style: italic;
+    text-decoration:none;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    text-decoration-line: underline;
 }
