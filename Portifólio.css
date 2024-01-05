@@ -1,0 +1,50 @@
+p {
+    color: rgb(208, 38, 38);
+}
+body {
+    background-color: rgb(247, 206, 176);
+    }
+h1 {
+    text-align: center;
+    lighting-color: blue;
+}
+section {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+#Foto {
+    text-align: center;
+}
+.Habil {
+    text-align: justify;
+}
+.main {
+    font-size: 36px;
+    font-weight: bold;
+    Text-align: center;
+}
+ 
+.gfg {
+    margin-left: 60px;
+    border: 50px solid #009900;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    padding: 50px;
+}
+ 
+.gfg1 {
+    font-size: 42px;
+    font-weight: bold;
+    color: #009900;
+    margin-top: 60px;
+    background-color: #c5c5db;
+}
+ 
+.gfg2 {
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #c5c5db;
+}
