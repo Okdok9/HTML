@@ -1,0 +1,131 @@
+#cabecalho {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: rgb(255, 255, 0);
+    font-size:xx-large;
+    border: 10px;
+    border-color:#d2691e;
+    border-style: outset;
+    padding: 3%;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    
+   
+}
+
+#APN {
+    height: 5%;
+    width: 10%;
+    margin-left: 8%;
+    position: relative;
+    display: inline;
+    bottom: 100px;
+
+       
+}
+
+#apn40anos {
+    margin-left: 15%;
+}
+
+aside {
+    float: right;
+    margin-top: 10%;
+}
+
+h3 li {
+    top: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3 {
+    color: yellow;
+    font-variant: small-caps;
+}
+
+.box1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: right;
+    border-radius: 10px;
+    width: 32%;
+    text-align: center;
+}
+
+.box1:hover {
+    background-color: rgb(252, 211, 6);
+}
+
+figure {
+    margin-left: 0%;
+    box-sizing: content-box;   
+}
+
+figcaption {
+    color: white;
+}
+
+figcaption:hover {
+    background-color: burlywood;
+    border-radius: 10px;
+}
+
+#história {
+    width: 45%;
+    height: 30%;  
+}
+
+#atuacao {
+    width: 45%;
+    height: 30%;
+}
+
+#brasil {
+    width: 45%;
+    height: 30%;
+    color: white;
+}
+
+footer {
+    background-color: rgb(169, 250, 5);
+    color: black;
+    text-align: center;
+    font-style: oblique;
+    border-radius: 100px
+}
+
+body {
+    background-image: url(https://gente.globo.com/wp-content/uploads/2020/06/negritude-brasileira.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover ;
+
+    
+}
+
+#sep {
+  color: blue;
+}
+
+li:hover {
+background-color: #d2691e;
+font-style: italic;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+border-radius: 30px;
+}
+
+li a:link {
+    color: greenyellow;
+    text-decoration: double;
+}
+
+a:visited {
+    color: rgb(143, 3, 3);
+    font-style: italic;
+    text-decoration:none;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    text-decoration-line: underline;
+}
